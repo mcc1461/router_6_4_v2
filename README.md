@@ -59,11 +59,11 @@ Open your browser and navigate to http://localhost:3000 to see the application r
 
 Once the development server is running, you can navigate through the following routes:
 
-/: Home page
-/about: About page
-/github: GitHub page with a form to enter a GitHub username
-/github/:userid: GitHub page displaying user info for the specified username
-*: Fallback for any undefined routes (Not Found page)
+- /: Home page
+- /about: About page
+- /github: GitHub page with a form to enter a GitHub username
+- /github/:userid: GitHub page displaying user info for the specified username
+- *: Fallback for any undefined routes (Not Found page)
 
 ## Project Structure
 
